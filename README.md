@@ -1,0 +1,1 @@
+Creating a clone of an landing page, given to us by the Odin Project, using only CSS and HTML.
